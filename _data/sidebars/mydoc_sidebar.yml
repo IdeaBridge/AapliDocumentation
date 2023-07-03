@@ -76,9 +76,10 @@ entries:
       url: /users.html
       output: web, pdf
 
-      title: User Management Panel
+    - title: User Management Panel 
       url: /user_management_panel.html
       output: web, pdf
+
 
   - title: Release Notes
     output: web, pdf
