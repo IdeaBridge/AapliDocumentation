@@ -72,6 +72,10 @@ entries:
       url: /operations.html
       output: web, pdf
 
+    - title: Users 
+      url: /users.html
+      output: web, pdf
+
   - title: Release Notes
     output: web, pdf
     folderitems:
