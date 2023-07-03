@@ -44,6 +44,14 @@ entries:
       url: /mydoc_support.html
       output: web, pdf
 
+  - title: How to
+    output: web, pdf
+    folderitems:
+
+    - title: Login 
+      url: /howto_login.html
+      output: web, pdf
+      
   - title: Release Notes
     output: web, pdf
     folderitems:
