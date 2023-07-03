@@ -55,10 +55,10 @@ entries:
     - title: Login 
       url: /howto_login.html
       output: web, pdf
-  - title: Home Page
-    output: web, pdf
-    folderitems:
 
+    - title: Home Page 
+      url: /home_page.html
+      output: web, pdf
 
   - title: Release Notes
     output: web, pdf
