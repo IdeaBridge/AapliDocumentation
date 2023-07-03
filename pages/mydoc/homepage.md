@@ -3,12 +3,12 @@ title: Home Page
 keywords: low code, no code, business process automation, workflow, evaluation matrixs
 last_updated: June 29, 2023
 tags: [Howto]
-summary: "aapli's Home Page"
+summary: "Aapli's Home Page"
 sidebar: mydoc_sidebar
 permalink: home_page.html
 folder: mydoc
 ---
-## Home Page
+
 After a successful login, the user will be directed to the Aapli Home page, which offers the following options:
 1.	User Details: The "User Details" option on the Aapli Home page offers a convenient overview of the users connected to the administrator.
 2.	Go to main website: This option allows users to navigate to the main website associated with Aapli. (https://demoxx.aapli.co/login)
