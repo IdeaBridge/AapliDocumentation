@@ -51,7 +51,11 @@ entries:
     - title: Login 
       url: /howto_login.html
       output: web, pdf
-      
+
+    - title: Registration 
+      url: /howto_register.html
+      output: web, pdf
+
   - title: Release Notes
     output: web, pdf
     folderitems:
