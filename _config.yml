@@ -9,7 +9,7 @@ topnav_title: Aapli Documentation
 site_title: Aapli Documentation
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Copyright 2023 Plus Innovations Private Limited
+company_name: Copyright Plus Innovations Private Limited
 # this appears in the footer
 
 github_editme_path: 
@@ -71,7 +71,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      comments: true
+      comments: false
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
       sidebar: home_sidebar
