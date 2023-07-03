@@ -47,14 +47,18 @@ entries:
   - title: How to
     output: web, pdf
     folderitems:
+    
+    - title: Registration 
+      url: /howto_register.html
+      output: web, pdf
 
     - title: Login 
       url: /howto_login.html
       output: web, pdf
+  - title: Home Page
+    output: web, pdf
+    folderitems:
 
-    - title: Registration 
-      url: /howto_register.html
-      output: web, pdf
 
   - title: Release Notes
     output: web, pdf
