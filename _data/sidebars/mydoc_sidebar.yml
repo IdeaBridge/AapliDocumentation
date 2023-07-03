@@ -67,6 +67,10 @@ entries:
     - title: User Details 
       url: /user_details.html
       output: web, pdf
+    
+    - title: Operations 
+      url: /operations.html
+      output: web, pdf
 
   - title: Release Notes
     output: web, pdf
