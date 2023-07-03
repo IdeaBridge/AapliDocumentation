@@ -1,0 +1,18 @@
+title: Login page
+tags: [getting_started, login]
+keywords:
+summary: "Login page is the first page that allows adimn to enter his/her credentials for website login"
+sidebar: mydoc_sidebar
+permalink: mydoc_about_ruby_gems_etc.html
+folder: mydoc
+---
+<style>
+.result {
+background-color: #f0f0f0;
+border: 1px solid #dedede;
+padding: 10px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+</style>
+
