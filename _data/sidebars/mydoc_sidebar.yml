@@ -88,6 +88,10 @@ entries:
       url: /adownload_all_users.html
       output: web, pdf
 
+    - title: Download Bulk Import Template
+      url: /download_bulk_import_template.html
+      output: web, pdf
+
   - title: Release Notes
     output: web, pdf
     folderitems:
