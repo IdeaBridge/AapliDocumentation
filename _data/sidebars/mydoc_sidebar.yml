@@ -84,6 +84,10 @@ entries:
       url: /add_user.html
       output: web, pdf
 
+    - title: Download All Users 
+      url: /adownload_all_users.html
+      output: web, pdf
+
   - title: Release Notes
     output: web, pdf
     folderitems:
