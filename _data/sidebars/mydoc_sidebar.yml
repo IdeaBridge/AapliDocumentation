@@ -80,6 +80,9 @@ entries:
       url: /user_management_panel.html
       output: web, pdf
 
+    - title: Add User 
+      url: /add_user.html
+      output: web, pdf
 
   - title: Release Notes
     output: web, pdf
