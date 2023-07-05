@@ -115,6 +115,10 @@ entries:
     - title: Drop Down
       url: /drop_down.html
       output: web, pdf
+    
+    - title: Multi Choice
+      url: /multi_choice.html
+      output: web, pdf
 
   - title: Release Notes
     output: web, pdf
