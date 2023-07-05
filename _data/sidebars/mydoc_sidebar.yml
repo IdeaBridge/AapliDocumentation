@@ -85,7 +85,7 @@ entries:
       output: web, pdf
 
     - title: Download All Users 
-      url: /adownload_all_users.html
+      url: /download_all_users.html
       output: web, pdf
 
     - title: Download Bulk Import Template
