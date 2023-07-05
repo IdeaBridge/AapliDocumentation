@@ -24,6 +24,9 @@ Within the Basic tab of the Drop-Down properties, you will find the following op
 4. **Placeholder:** The Placeholder property allows you to set temporary example or prompt text within the Drop-Down field, giving users a hint or suggestion about the expected selection.
 5. **Tag Line:** The Tag Line property enables you to add a small line of text below the Drop-Down field, which can be used to provide further instructions or additional context related to the available options.
 6. **Select Size (Small, Medium, Large):** This property allows you to choose the size or width of the Drop-Down field, offering flexibility in the visual presentation based on your design preferences or requirements.
+
+{% include image.html file="drop_down3.jpg" url="https://admin.aapli.co/admin/operations/users" alt="Download Bulk Import Template" caption="Download Bulk Import Template" %}
+
 7. **Add Options:** By clicking the "+" logo, you can dynamically add more options to the Drop-Down field. Additionally, the error logo allows you to add sub-options under specific options, and the "-" logo allows you to remove options as needed.
 8. **Use in Workflow Checkbox:** Enabling this checkbox indicates that the selected option from the Drop-Down field should be utilized within the form's workflow or further processes.
 9. **Multi-Select Checkbox:** Enabling this checkbox allows users to select multiple options from the Drop-Down field instead of just one, transforming it into a multi-select field.
@@ -31,7 +34,7 @@ Within the Basic tab of the Drop-Down properties, you will find the following op
 
 ## Advanced Properties of Drop Down:
 
-{% include image.html file="drop_down3.jpg" url="https://admin.aapli.co/admin/operations/users" alt="Download Bulk Import Template" caption="Download Bulk Import Template" %}
+{% include image.html file="drop_down4.jpg" url="https://admin.aapli.co/admin/operations/users" alt="Download Bulk Import Template" caption="Download Bulk Import Template" %}
 
 1. **Field Can Be Hidden from the Responder:** Enabling this checkbox allows you to hide the Drop-Down field from the form responder or user. This can be useful when you want to collect certain data without displaying the field visibly. It allows you to gather information in the background or based on specific conditions.
 2. **Filtrate Checkbox:** By selecting this checkbox, you enable the "filtrate" feature for the Drop-Down field. Filtrate refers to the capability of the input field to act as a filter or search parameter for data. This allows users to input values that can be used to filter or narrow down results in a connected system or database.
