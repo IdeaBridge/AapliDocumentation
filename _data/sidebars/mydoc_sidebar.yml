@@ -56,6 +56,18 @@ entries:
       url: /howto_login.html
       output: web, pdf
   
+    - title: Add User 
+      url: /add_user.html
+      output: web, pdf
+
+    - title: Download All Users 
+      url: /download_all_users.html
+      output: web, pdf
+  
+    - title: Download Bulk Import Template
+      url: /download_bulk_import_template.html
+      output: web, pdf
+  
   - title: Screens
     output: web, pdf
     folderitems:
