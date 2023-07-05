@@ -107,6 +107,10 @@ entries:
     - title: Single line input
       url: /single_line_input.html
       output: web, pdf
+    
+    - title: Multi Line Input
+      url: /multi_line_input.html
+      output: web, pdf
 
   - title: Release Notes
     output: web, pdf
