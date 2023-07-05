@@ -104,6 +104,10 @@ entries:
       url: /download_bulk_import_template.html
       output: web, pdf
 
+    - title: Single line input
+      url: /single_line_input.html
+      output: web, pdf
+
   - title: Release Notes
     output: web, pdf
     folderitems:
