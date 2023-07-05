@@ -112,6 +112,10 @@ entries:
       url: /multi_line_input.html
       output: web, pdf
 
+    - title: Drop Down
+      url: /drop_down.html
+      output: web, pdf
+
   - title: Release Notes
     output: web, pdf
     folderitems:
