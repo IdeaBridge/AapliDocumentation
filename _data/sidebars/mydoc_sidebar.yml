@@ -123,6 +123,10 @@ entries:
     - title: Multi Choice
       url: /multi_choice.html
       output: web, pdf
+  
+    - title: Radio
+      url: /radio.html
+      output: web, pdf
 
   - title: Release Notes
     output: web, pdf
