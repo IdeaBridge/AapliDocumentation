@@ -132,6 +132,10 @@ entries:
       url: /number.html
       output: web, pdf
 
+    - title: Date
+      url: /date.html
+      output: web, pdf
+
   - title: Release Notes
     output: web, pdf
     folderitems:
