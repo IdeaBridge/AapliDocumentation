@@ -108,38 +108,51 @@ entries:
       url: /managing_existing_users.html
       output: web, pdf
 
-    - title: Single line input
-      url: /single_line_input.html
-      output: web, pdf
     
-    - title: Multi Line Input
-      url: /multi_line_input.html
-      output: web, pdf
+  - title: Form builder
+    output: web
+    folderitems:
 
-    - title: Drop Down
-      url: /drop_down.html
-      output: web, pdf
-    
-    - title: Multi Choice
-      url: /multi_choice.html
-      output: web, pdf
-  
-    - title: Radio
-      url: /radio.html
-      output: web, pdf
+    - title: Form builder overview
+      url: /mydoc_form_builder_overview.html
+      output: web
 
-    - title: Number
-      url: /number.html
-      output: web, pdf
+      subfolders:
+      - title: Form builder components
+        output: web
+        subfolderitems:
 
-    - title: Date
-      url: /date.html
-      output: web, pdf
+        - title: Single line input
+          url: /single_line_input.html
+          output: web, pdf
+        
+        - title: Multi Line Input
+          url: /multi_line_input.html
+          output: web, pdf
 
-    - title: Date Range
-      url: /date.html
-      output: web, pdf
+        - title: Drop Down
+          url: /drop_down.html
+          output: web, pdf
+        
+        - title: Multi Choice
+          url: /multi_choice.html
+          output: web, pdf
+      
+        - title: Radio
+          url: /radio.html
+          output: web, pdf
 
+        - title: Number
+          url: /number.html
+          output: web, pdf
+
+        - title: Date
+          url: /date.html
+          output: web, pdf
+
+        - title: Date Range
+          url: /date_range.html
+          output: web, pdf
   - title: Release Notes
     output: web, pdf
     folderitems:
@@ -390,4 +403,3 @@ entries:
           url: /tag_troubleshooting.html
           output: web
 
-# Copyright 2021 Google LLC
