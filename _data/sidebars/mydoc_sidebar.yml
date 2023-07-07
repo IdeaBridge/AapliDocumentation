@@ -93,8 +93,8 @@ entries:
       output: web, pdf
 
     - title: Add User 
-       url: /add_user.html
-       output: web, pdf
+      url: /add_user.html
+      output: web, pdf
 
     - title: Download All Users 
       url: /download_all_users.html
