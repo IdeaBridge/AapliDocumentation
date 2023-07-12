@@ -5,7 +5,7 @@ last_updated: July 06, 2023
 tags: [Screens]
 summary: "Content will be added soon" 
 sidebar: mydoc_sidebar
-permalink: url.html
+permalink: task.html
 folder: mydoc
 ---
 
