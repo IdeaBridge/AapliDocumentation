@@ -162,6 +162,21 @@ entries:
           url: /timeline.html
           output: web, pdf
 
+        - title: File Uploads
+          url: /file_uploads.html
+          output: web, pdf
+
+        - title: URL
+          url: /url.html
+          output: web, pdf
+
+        - title: Task
+          url: /task.html
+          output: web, pdf
+        
+        - title: Terms and Conditions
+          url: /terms_and_conditions.html
+          output: web, pdf
 
   - title: Release Notes
     output: web, pdf
