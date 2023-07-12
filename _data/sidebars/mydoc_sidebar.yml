@@ -153,6 +153,16 @@ entries:
         - title: Date Range
           url: /date_range.html
           output: web, pdf
+
+        - title: Timeline
+          url: /timeline.html
+          output: web, pdf
+        
+        - title: currency
+          url: /timeline.html
+          output: web, pdf
+
+
   - title: Release Notes
     output: web, pdf
     folderitems:
