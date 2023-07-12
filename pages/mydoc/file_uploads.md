@@ -1,5 +1,5 @@
 ---
-title: File Uploads
+title: File Upload
 keywords: low code, no code, business process automation, workflow, evaluation matrixs
 last_updated: July 06, 2023
 tags: [Screens]

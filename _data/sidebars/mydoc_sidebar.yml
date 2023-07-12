@@ -162,8 +162,8 @@ entries:
           url: /timeline.html
           output: web, pdf
 
-        - title: File Uploads
-          url: /file_uploads.html
+        - title: File Upload
+          url: /file_upload.html
           output: web, pdf
 
         - title: URL
