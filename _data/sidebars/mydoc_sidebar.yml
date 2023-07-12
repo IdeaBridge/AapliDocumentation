@@ -186,6 +186,10 @@ entries:
           url: /text.html
           output: web, pdf
 
+        - title: Composite Component
+          url: /composite_component.html
+          output: web, pdf
+
   - title: Release Notes
     output: web, pdf
     folderitems:
