@@ -5,7 +5,7 @@ last_updated: July 06, 2023
 tags: [Screens]
 summary: "Designed to facilitate the inclusion of specific terms and conditions within an application" 
 sidebar: mydoc_sidebar
-permalink: terms_and_confition.html
+permalink: terms_and_condition.html
 folder: mydoc
 ---
 
@@ -28,7 +28,7 @@ In the Basic properties of the Terms and conditions component, you will find the
 
 ## Advanced Properties of Terms and Conditions component:
 
-{% include image.html file="terms_and_conditions2.jpg" url="https://admin.aapli.co/form-builder" alt="Terms and Condition" caption="Advanced Properties of Terms and Conditions component" %}
+{% include image.html file="terms_and_conditions3.jpg" url="https://admin.aapli.co/form-builder" alt="Terms and Condition" caption="Advanced Properties of Terms and Conditions component" %}
 
 1. **Field can be hidden from the responder:** This checkbox allows you to control the visibility of the terms and conditions field for the form responder. By selecting this checkbox, the field will be hidden from the responder's view, providing an option to hide the terms and conditions if necessary.
 
