@@ -85,9 +85,13 @@ entries:
       output: web, pdf
 
     subfolders:
-    - title: Users 
-      url: /users.html
-      output: web, pdf
+    - title: Users
+      output: web
+      subfolderitems:
+
+      - title: Users 
+        url: /users.html
+        output: web, pdf
 
       - title: User Management Panel 
         url: /user_management_panel.html
