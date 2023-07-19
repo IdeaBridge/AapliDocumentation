@@ -15,4 +15,4 @@ folder: mydoc
 4.	Click on the "Continue" button to access your aapli account.
 5.	You will be directed to the home page of your aapli account after a successful login.
 
-{% include image.html file="login.jpg" url="https://admin.aapli.co" alt="login screen" caption="Admin login" %}
+{% include image.html file="login.jpg" class="docimage" url="https://admin.aapli.app" alt="login screen" caption="Admin login" %}
