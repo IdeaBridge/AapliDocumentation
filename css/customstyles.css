@@ -1205,4 +1205,5 @@ h4.panel-title {
 .docimage{
     border: 2px solid;
     padding: 2px;
+    width: 200px !important;
 }
