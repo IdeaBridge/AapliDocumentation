@@ -466,7 +466,7 @@ figcaption {
     margin-bottom:20px;
     font-style: italic;
     color: gray;
-
+    margin-left: 10%;
 }
 
 .testing {
@@ -1205,5 +1205,6 @@ h4.panel-title {
 .docimage{
     border: 2px solid;
     padding: 2px;
-    width: 200px !important;
+    width: 400px !important;
+    margin-left: 10% !important;
 }
