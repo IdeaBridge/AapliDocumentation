@@ -11,7 +11,7 @@ folder: mydoc
 
 The Email component is a widget used to collect email addresses from users within an application. It provides a simple and convenient way to gather email information for various purposes such as contact forms, newsletter subscriptions, or account registration.
 
-{% include image.html file="email1.jpg" url="https://admin.aapli.co/form-builder" alt="Email" caption="Email Component" %}
+{% include image.html file="email1.jpg"  url="https://admin.aapli.co/form-builder" alt="Email" caption="Email Component" %}
 
 With the Email component, users will be prompted to enter their email address in a designated field. This allows the application to capture and utilize email data for communication and engagement purposes.
 
