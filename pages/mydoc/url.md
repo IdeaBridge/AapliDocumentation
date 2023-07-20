@@ -11,12 +11,12 @@ folder: mydoc
 
 The URL component is used to collect and validate website addresses or links. Users can enter a web URL, such as "https://example.com", and the component ensures that it is in the correct format. It is commonly used when you need users to provide website links or when you want to include clickable links within a form or application.
 
-{% include image.html file="url1.jpg" url="https://admin.aapli.co/form-builder" alt="URL" caption="URL Component" %}
+{% include image.html file="url1.jpg" class="docimage" url="https://admin.aapli.co/form-builder" alt="URL" caption="URL Component" %}
 
 ## Basic Properties of URL component:
 In the Basic properties of the URL component, you will find the following options:
 
-{% include image.html file="url2.jpg" url="https://admin.aapli.co/form-builder" alt="URL" caption="Basic Properties of URL component" %}
+{% include image.html file="url2.jpg" class="docimage" url="https://admin.aapli.co/form-builder" alt="URL" caption="Basic Properties of URL component" %}
 
 1. **Required Checkbox:** Enabling this checkbox makes the URL field a mandatory input, ensuring that users must provide a website link before submitting the form.
 
@@ -31,7 +31,7 @@ In the Basic properties of the URL component, you will find the following option
 ## Advanced Properties of URL component:
 In the Advanced tab of the URL component properties, you will find the following options:
 
-{% include image.html file="url3.jpg" url="https://admin.aapli.co/form-builder" alt="URL" caption="Advanced Properties of URL component" %}
+{% include image.html file="url3.jpg" class="docimage" url="https://admin.aapli.co/form-builder" alt="URL" caption="Advanced Properties of URL component" %}
 
 1. **Field Can Be Hidden from the Responder:** Enabling this checkbox allows you to hide the URL field from the form responder or user. This can be useful when you want to collect the URL without displaying the field visibly.
 
