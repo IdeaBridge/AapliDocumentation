@@ -11,12 +11,12 @@ folder: mydoc
 
 The Date component is used in forms to collect date input from users. It provides a field where users can enter or select a date, typically in the mm/dd/yyyy format, allowing for accurate and standardized recording of dates for various purposes such as event registration, appointment scheduling, or birthdate submission.
 
-{% include image.html file="date1.jpg" url="https://admin.aapli.co/form-builder" alt="date" caption="Date Component" %}
+{% include image.html file="date1.jpg" class="docimage" url="https://admin.aapli.co/form-builder" alt="date" caption="Date Component" %}
 
 ## Basic Properties of Date
 
 Within the Basic tab of the Date properties, you will find the following options:
-{% include image.html file="date2.jpg" url="https://admin.aapli.co/form-builder" alt="date" caption=" Basic Properties Date Component" %}
+{% include image.html file="date2.jpg" class="docimage" url="https://admin.aapli.co/form-builder" alt="date" caption=" Basic Properties Date Component" %}
 
 1. **Required Checkbox:** Enabling this checkbox makes the Date field a mandatory input, ensuring that users must provide a date before submitting the form.
 2. **Label:** This property allows you to provide a descriptive label or caption for the Date field, indicating the purpose or context of the date input.
@@ -34,7 +34,7 @@ In the Advanced tab of the Date properties, you will find two additional checkbo
 
 Within the Basic tab of the Date properties, you will find the following options:
 
-{% include image.html file="date3.jpg" url="https://admin.aapli.co/form-builder" alt="date" caption=" Advanced Properties Date Component" %}
+{% include image.html file="date3.jpg" class="docimage" url="https://admin.aapli.co/form-builder" alt="date" caption=" Advanced Properties Date Component" %}
 
 1. **Field Can Be Hidden from the Responder:** Enabling this checkbox allows you to hide the Date field from the form responder or user. This can be useful when you want to collect date data without displaying the field visibly. It allows you to gather information in the background or based on specific conditions.
 
