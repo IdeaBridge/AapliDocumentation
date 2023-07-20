@@ -10,12 +10,12 @@ folder: mydoc
 ---
 The Time line component allows users to input a range of dates or time periods by selecting a start date and an end date. It provides a convenient interface for capturing time-based information, such as project durations, event schedules, by allowing users to specify both the beginning and end points of a time span.
 
-{% include image.html file="timeline1.jpg" url="https://admin.aapli.co/form-builder" alt="Timeline" caption="Timeline Component" %}
+{% include image.html file="timeline1.jpg" class="docimage" url="https://admin.aapli.co/form-builder" alt="Timeline" caption="Timeline Component" %}
 
 ## Basic Properties of Timeline
 Within the Basic tab of the Time line properties, you will find the following options:
 
-{% include image.html file="timeline2.jpg" url="https://admin.aapli.co/form-builder" alt="Timeline" caption="Basic Properties of Timeline Component" %}
+{% include image.html file="timeline2.jpg" class="docimage" url="https://admin.aapli.co/form-builder" alt="Timeline" caption="Basic Properties of Timeline Component" %}
 
 1. **Required Checkbox:** Enabling this checkbox makes the Time line field a mandatory input, ensuring that users must provide both a start date and an end date before submitting the form.
 
@@ -32,7 +32,7 @@ Within the Basic tab of the Time line properties, you will find the following op
 ## Advanced Properties of Timeline
 In the Advanced tab of the Time line properties, you will find two additional checkboxes and a dropdown menu:
 
-{% include image.html file="timeline3.jpg" url="https://admin.aapli.co/form-builder" alt="Timeline" caption="Basic Properties of Timeline Component" %}
+{% include image.html file="timeline3.jpg" class="docimage" url="https://admin.aapli.co/form-builder" alt="Timeline" caption="Basic Properties of Timeline Component" %}
 
 1. **Field Can Be Hidden from the Responder:** Enabling this checkbox allows you to hide the Time line field from the form responder or user. This can be useful when you want to collect time range data without displaying the field visibly. It allows you to gather information in the background or based on specific conditions.
 2. **Filtrate Checkbox:** By selecting this checkbox, you enable the "filtrate" feature for the Time line field. Filtrate refers to the capability of the input field to act as a filter or search parameter for data. This allows users to input time ranges that can be used to filter or narrow down results in a connected system or database.
