@@ -11,12 +11,12 @@ folder: mydoc
 
 The File Upload component allows users to upload files by either dragging and dropping them onto the designated area or clicking to browse and select files from their device. It provides a convenient way for users to submit files, such as documents, images, or media, as part of a form.
 
-{% include image.html file="file_uploads1.jpg" url="https://admin.aapli.co/form-builder" alt="File Uploads" caption="File Upload Component" %}
+{% include image.html file="file_uploads1.jpg" class="docimage" url="https://admin.aapli.co/form-builder" alt="File Uploads" caption="File Upload Component" %}
 
 ## Basic Properties of File uploads: 
 In the Basic tab of the File Upload properties, you will find the following options:
 
-{% include image.html file="file_uploads2.jpg" url="https://admin.aapli.co/form-builder" alt="File Uploads" caption="Basic Properties of File uploads Component" %}
+{% include image.html file="file_uploads2.jpg" class="docimage" url="https://admin.aapli.co/form-builder" alt="File Uploads" caption="Basic Properties of File uploads Component" %}
 
 1. **Required Checkbox:** Enabling this checkbox makes the File Upload field a mandatory input, ensuring that users must upload a file before submitting the form.
 
@@ -34,7 +34,7 @@ In the Basic tab of the File Upload properties, you will find the following opti
 ## Advanced Properties of File uploads: 
 In the Advanced tab of the File Upload properties, you will find the following options:
 
-{% include image.html file="file_uploads3.jpg" url="https://admin.aapli.co/form-builder" alt="File Uploads" caption="Advanced Properties of File uploads Component" %}
+{% include image.html file="file_uploads3.jpg" class="docimage" url="https://admin.aapli.co/form-builder" alt="File Uploads" caption="Advanced Properties of File uploads Component" %}
 
 1. **Field Can Be Hidden from the Responder:** Enabling this checkbox allows you to hide the File Upload field from the form responder or user. This can be useful when you want to collect file uploads without displaying the field visibly.
 
