@@ -18,4 +18,4 @@ Managing user accounts is a critical aspect of any platform, and aapli makes it 
 
 Note: Upon logging into the aapli platform, the Operations tab is usually displayed, offering a range of widgets related to Aapli operations. Among these widgets, the "Users" widget can be easily located.
 
-{% include image.html file="user_management_panel2.jpg" url="https://admin.aapli.co/admin/operations/users" alt="Users" caption="Users" %}
+{% include image.html file="user_management_panel2.jpg" class="docimage" url="https://admin.aapli.co/admin/operations/users" alt="Users" caption="Users" %}
