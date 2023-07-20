@@ -11,7 +11,7 @@ folder: mydoc
 
 The Text component is used to collect textual information from the user. It presents a text box where the user can enter their desired text. The component also provides a toolbar with various formatting options to enhance the text input.
 
-{% include image.html file="text1.jpg" url="https://admin.aapli.co/form-builder" alt="Text" caption="Text Component" %}
+{% include image.html file="text1.jpg" class="docimage" url="https://admin.aapli.co/form-builder" alt="Text" caption="Text Component" %}
 
 The toolbar includes the following tools:
 **Bold:** Allows you to apply bold formatting to the selected text.
@@ -39,7 +39,7 @@ With these formatting options, users can customize their text according to their
 ## Advance Properties of Text:
 In the Advanced properties of the Text component, there is one option available:
 
-{% include image.html file="text2.jpg" url="https://admin.aapli.co/form-builder" alt="Text" caption="Advance Properties of Text" %}
+{% include image.html file="text2.jpg" class="docimage" url="https://admin.aapli.co/form-builder" alt="Text" caption="Advance Properties of Text" %}
 
 **Visible to:** This option allows you to specify who can see the Text component. By selecting certain individuals or groups, you can make the Text component visible only to them, while others will not be able to see it.
 
