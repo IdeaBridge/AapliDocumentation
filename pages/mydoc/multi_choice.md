@@ -11,7 +11,7 @@ folder: mydoc
 
 The Multi Choice component allows users to select one or more options from a predefined list. It provides a set of choices or options for users to choose from, enabling them to make selections based on their preferences, opinions, or specific requirements. This component is commonly used when gathering multiple-choice responses, conducting surveys, or collecting data that involves selecting one or more options from a given list.
 
-{% include image.html file="multi_choice1.jpg" url="https://admin.aapli.co/form-builder" alt="Multi Choice" caption="Multi Choice" %}
+{% include image.html file="multi_choice1.jpg" class="docimage" url="https://admin.aapli.co/form-builder" alt="Multi Choice" caption="Multi Choice" %}
 
 Multi Choice properties are divided into basics and Advanced properties.
 
@@ -19,7 +19,7 @@ Multi Choice properties are divided into basics and Advanced properties.
 
 In the Basic properties of the Multi Choice component, you will find the following options:
 
-{% include image.html file="multi_choice2.jpg" url="https://admin.aapli.co/form-builder" alt="Multi Choice" caption="Basic Properties of Multi Choice" %}
+{% include image.html file="multi_choice2.jpg" class="docimage" url="https://admin.aapli.co/form-builder" alt="Multi Choice" caption="Basic Properties of Multi Choice" %}
 
 1. **Required Checkbox:** Enabling this checkbox makes the Multi Choice field a mandatory selection, ensuring that users must choose at least one option before submitting the form.
 2. **Display in Blocks Checkbox:** Enabling this checkbox arranges the options in a block-style format, displaying each option on a separate line or in a visually distinct manner, enhancing readability and user experience.
@@ -35,7 +35,7 @@ In the Basic properties of the Multi Choice component, you will find the followi
 
 In the Advanced tab of the Multi Choice component properties, you will find the following options:
 
-{% include image.html file="multi_choice3.jpg" url="https://admin.aapli.co/form-builder" alt="Multi Choice" caption="Advanced Properties of Multi Choice" %}
+{% include image.html file="multi_choice3.jpg" class="docimage" url="https://admin.aapli.co/form-builder" alt="Multi Choice" caption="Advanced Properties of Multi Choice" %}
 
 1. **Field Can Be Hidden from the Responder:** Enabling this checkbox allows you to hide the Multi Choice field from the form responder or user. This can be useful when you want to collect the selection without displaying the field visibly.
 
