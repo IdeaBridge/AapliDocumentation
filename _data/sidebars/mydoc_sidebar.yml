@@ -120,8 +120,8 @@ entries:
         output: web,pdf
         subfolderitems:
 
-        - title: Application category
-          url: /application_categories.html
+        - title: Application Category Panel
+          url: /application_category_panel.html
           output: web,pdf
 
         
