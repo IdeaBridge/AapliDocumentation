@@ -128,7 +128,9 @@ entries:
           url: /add_aaplication_category.html
           output: web,pdf
 
-          
+        - title: Add a Category
+          url: /search_a_category.html
+          output: web,pdf         
 
         
   - title: Form builder
