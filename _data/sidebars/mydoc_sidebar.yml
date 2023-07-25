@@ -82,25 +82,27 @@ entries:
       url: /operations-overview.html
       output: web
       subfolders:
+      
       - title: Users
         output: web
         subfolderitems:
+
         - title: User 
           url: /users.html
           output: web, pdf
+
         - title: User Management Panel 
           url: /user_management_panel.html
           output: web, pdf
+
         - title: Add User 
           url: /add_user.html
           output: web, pdf
 
         - title: Managing Existing Users
           url: /managing_existing_users.html
-          output: web, pdf 
-
-        
-
+          output: web, pdf
+      
         - title: Download Bulk Import Template
           url: /download_bulk_import_template.html
           output: web, pdf
@@ -112,6 +114,11 @@ entries:
         - title: Download Bulk Import Template
           url: /download_bulk_import_template.html
           output: web, pdf
+
+      - title: Application category
+        url: /application_categories.html
+        output: web
+        subfolderitems:
 
         
   - title: Form builder
