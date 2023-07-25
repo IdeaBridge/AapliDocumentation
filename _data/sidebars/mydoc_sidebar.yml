@@ -123,6 +123,12 @@ entries:
         - title: Application Category Panel
           url: /application_category_panel.html
           output: web,pdf
+        
+        - title: Add a Category
+          url: /add_aaplication_category.html
+          output: web,pdf
+
+          
 
         
   - title: Form builder
