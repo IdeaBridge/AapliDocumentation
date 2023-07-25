@@ -128,9 +128,13 @@ entries:
           url: /add_aaplication_category.html
           output: web,pdf
 
-        - title: Add a Category
-          url: /search_a_category.html
-          output: web,pdf         
+        - title: Edit an Existing Category
+          url: /edit_a_category.html
+          output: web,pdf    
+
+        - title: Delete an Existing Category
+          url: /delete_a_category.html
+          output: web,pdf     
 
         
   - title: Form builder
