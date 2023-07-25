@@ -117,8 +117,12 @@ entries:
 
       - title: Application category
         url: /application_categories.html
-        output: web
+        output: web,pdf
         subfolderitems:
+
+        - title: Application category
+          url: /application_categories.html
+          output: web,pdf
 
         
   - title: Form builder
