@@ -140,6 +140,15 @@ entries:
           url: /setting_category_status.html
           output: web,pdf
 
+      - title: Evolution Matrix
+        url: /evolution_matrix.html
+        output: web,pdf
+        subfolderitems:
+        
+        - title: Evolution Matrix Panel
+          url: /evolution_matrix_panel.html
+          output: web,pdf
+
         
   - title: Form builder
     output: web
