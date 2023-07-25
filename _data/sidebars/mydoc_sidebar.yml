@@ -136,6 +136,10 @@ entries:
           url: /delete_a_category.html
           output: web,pdf     
 
+        - title: Setting Status, Active/Inactive 
+          url: /setting_category_status.html
+          output: web,pdf
+
         
   - title: Form builder
     output: web
