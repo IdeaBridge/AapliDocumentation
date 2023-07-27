@@ -171,10 +171,14 @@ entries:
           output: web,pdf
 
       - title: Notifications
-        url: /Cards.html
+        url: /notifications.html
         output: web,pdf
         subfolderitems:
-        
+  
+        - title: Notifications
+          url: /notifications.html
+          output: web,pdf
+
 
         
   - title: Form builder
