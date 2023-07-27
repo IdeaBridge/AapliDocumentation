@@ -166,6 +166,10 @@ entries:
           url: /cards.html
           output: web,pdf
 
+        - title: Cards Management Panel
+          url: /cards_panel.html
+          output: web,pdf
+
         
   - title: Form builder
     output: web
