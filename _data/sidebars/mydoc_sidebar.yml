@@ -179,6 +179,9 @@ entries:
           url: /notifications.html
           output: web,pdf
 
+        - title: Notifications Panel
+          url: /notifications_panel.html
+          output: web,pdf
 
         
   - title: Form builder
