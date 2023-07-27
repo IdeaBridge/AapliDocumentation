@@ -149,6 +149,10 @@ entries:
           url: /evolution_matrix_panel.html
           output: web,pdf
 
+        - title: Add an Evolution Matrix
+          url: /permalink: /add_evolution_matrix.html
+          output: web,pdf
+
         
   - title: Form builder
     output: web
