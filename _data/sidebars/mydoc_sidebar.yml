@@ -183,7 +183,20 @@ entries:
           url: /notifications_panel.html
           output: web,pdf
 
-        
+      - title: Announcements
+        url: /announcements.html
+        output: web,pdf
+        subfolderitems:
+
+        - title: Announcements
+          url: /announcements.html
+          output: web,pdf
+
+        - title: Announcements Panel
+          url: /announcements_panel.html
+          output: web,pdf
+
+
   - title: Form builder
     output: web
     folderitems:
