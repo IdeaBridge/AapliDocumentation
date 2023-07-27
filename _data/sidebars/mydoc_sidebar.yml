@@ -170,6 +170,12 @@ entries:
           url: /cards_panel.html
           output: web,pdf
 
+      - title: Notifications
+        url: /Cards.html
+        output: web,pdf
+        subfolderitems:
+        
+
         
   - title: Form builder
     output: web
