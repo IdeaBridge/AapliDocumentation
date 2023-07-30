@@ -78,8 +78,9 @@ entries:
   - title: Operations
     output: web
     folderitems:
+    
     - title: Operations Overview
-      url: /operations-overview.html
+      url: /operations_overview.html
       output: web
       subfolders:
       
@@ -192,6 +193,14 @@ entries:
           url: /announcements_panel.html
           output: web,pdf
 
+  - title: Configurations
+    output: web
+    folderitems:
+
+    - title: Configurations Overview
+      url: /configurations_overview.html
+      output: web
+      subfolders:
 
   - title: Form builder
     output: web
