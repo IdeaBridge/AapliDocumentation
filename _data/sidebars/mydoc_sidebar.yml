@@ -116,7 +116,6 @@ entries:
           output: web, pdf
 
       - title: Application category
-        url: /application_categories.html
         output: web,pdf
         subfolderitems:
 
@@ -141,7 +140,6 @@ entries:
           output: web,pdf
 
       - title: Evolution Matrix
-        url: /evolution_matrix.html
         output: web,pdf
         subfolderitems:
 
@@ -158,7 +156,6 @@ entries:
           output: web,pdf
       
       - title: Cards
-        url: /Cards.html
         output: web,pdf
         subfolderitems:
 
@@ -184,7 +181,6 @@ entries:
           output: web,pdf
 
       - title: Announcements
-        url: /announcements.html
         output: web,pdf
         subfolderitems:
 
